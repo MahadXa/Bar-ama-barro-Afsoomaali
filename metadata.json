@@ -1,0 +1,6 @@
+{
+  "name": "Baro Afsoomaali",
+  "description": "An interactive, gamified educational app for learning the Somali alphabet (Alifba Soomaali) using the southern region's dialect (Mogadishu). Designed for children with native cultural examples, vowels combinations, word builders, interactive sound, quizzes, and parent analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
